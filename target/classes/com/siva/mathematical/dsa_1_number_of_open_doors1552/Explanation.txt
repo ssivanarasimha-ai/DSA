@@ -1,0 +1,14 @@
+for ex n = 10;
+
+Doors            1   2    3    4   5   6   7   8   9   10
+Initially        c   c    c    c   c   c   c   c   c   c
+1st go           o   o    o    o   o   o   o   o   o   o
+2nd go               c         c       c       c       c
+3rd go                    c            o           c    
+4th go                         o               o
+5th go                             c                   o
+6th go                                 c
+7th go                                     c
+8th go                                         c
+9th go                                             o
+10th go                                                c
